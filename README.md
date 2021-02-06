@@ -1,0 +1,1 @@
+This is a URL operations program in which you can shorten or unshorten a URL. This program will first check if the input is a URL or not and if the input is a URL then only you will be able to perform the operations else the program will terminate itself. Also I have used speech recognition through which the program will speak the commands rather then printing it.
